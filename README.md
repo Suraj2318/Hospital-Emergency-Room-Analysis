@@ -6,7 +6,7 @@ The Hospital Emergency Room Analysis Dashboard is an interactive tool that analy
 The **Hospital Emergency Room Analysis Dashboard** is designed to enhance operational efficiency in emergency rooms by providing real-time insights into patient flow, wait times, and key performance indicators (KPIs). This dashboard helps healthcare professionals monitor trends, improve decision-making, and optimize patient care.
 
 ## Dashboard Preview
-![Dashboard](Hospital ER Analysis Dashboard.png)  
+![Dashboard Preview]([https://raw.githubusercontent.com/your-username/your-repo/main/Hospital%20ER%20Analysis%20Dashboard.png](https://github.com/Suraj2318/Hospital-Emergency-Room-Analysis/blob/main/Hospital%20ER%20Analysis%20Dashboard.png?raw=true)) 
 
 
 ## Requirements & Key Metrics
